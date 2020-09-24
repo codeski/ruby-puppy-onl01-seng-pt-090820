@@ -24,7 +24,7 @@ class Dog
   end
   
   def save
-    self.initialize
+    name.initialize
   end
 
   
